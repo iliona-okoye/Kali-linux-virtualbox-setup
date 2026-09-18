@@ -20,6 +20,7 @@ Choose the installer for your host OS:
 4. Launch VirtualBox once installation completes
 
 ## Verify installation
-Open VirtualBox. You should see the VirtualBox Manager window.
+Open VirtualBox. You should see the VirtualBox Manager window, ready to create a new virtual machine.
 
-![VirtualBox Manager](../images/v
+## Next step
+→ [Downloading Kali Linux](02-download-kali-iso.md)
